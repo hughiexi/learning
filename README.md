@@ -1,3 +1,2 @@
 # learning
-my blog
-a blog for taking notes
+my blog for taking notes
